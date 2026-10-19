@@ -1,0 +1,6 @@
+{
+  "name": "AuraType - Eye-Care Speed Typing",
+  "description": "Ergonomic speed typing platform with 200 curated 500-word passages, eye-strain softening filters, 30s & 1m countdown modes, and typist rank certifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
